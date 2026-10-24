@@ -1,0 +1,139 @@
+[
+    {
+        "topic": "CSS Parser",
+        "question": "What does a CSS parser do?",
+        "answer": "A CSS parser reads CSS text and extracts rules, selectors, properties, and values into structured data.",
+        "keywords": [
+            "css",
+            "parser",
+            "selectors",
+            "properties",
+            "values",
+            "stylesheet",
+            "milestone 1"
+        ]
+    },
+    {
+        "topic": "Python",
+        "question": "What is Python?",
+        "answer": "Python is a general-purpose programming language known for readable syntax and a large ecosystem of libraries.",
+        "keywords": [
+            "python",
+            "programming",
+            "language",
+            "code",
+            "beginner"
+        ]
+    },
+    {
+        "topic": "JSON",
+        "question": "What is JSON used for?",
+        "answer": "JSON is a text format for representing structured data using objects, arrays, strings, numbers, booleans, and null.",
+        "keywords": [
+            "json",
+            "data",
+            "structured",
+            "format",
+            "serialization"
+        ]
+    },
+    {
+        "topic": "Tool-Using AI Agent",
+        "question": "What is a tool-using AI agent?",
+        "answer": "A tool-using agent selects and calls functions or tools to retrieve information or perform actions, then uses their results to respond.",
+        "keywords": [
+            "agent",
+            "ai",
+            "tool",
+            "function",
+            "routing",
+            "retrieve",
+            "milestone 2"
+        ]
+    },
+    {
+        "topic": "Hallucination Prevention",
+        "question": "How can an agent reduce unsupported answers?",
+        "answer": "An agent can answer only from returned evidence, report when information is missing, and avoid inventing details not present in its trusted source.",
+        "keywords": [
+            "hallucination",
+            "evidence",
+            "trusted",
+            "missing",
+            "unsupported",
+            "reliability"
+        ]
+    },
+    {
+        "topic": "Regular Expressions",
+        "question": "What are regular expressions?",
+        "answer": "Regular expressions are patterns used to search, match, and manipulate text.",
+        "keywords": [
+            "regex",
+            "regular expressions",
+            "pattern",
+            "text",
+            "matching"
+        ]
+    },
+    {
+        "topic": "Tool Routing",
+        "question": "What is tool routing?",
+        "answer": "Tool routing is the process of selecting a function or tool based on the user's request. This prototype uses transparent keyword-based rules.",
+        "keywords": [
+            "routing",
+            "tool selection",
+            "function",
+            "intent",
+            "agent"
+        ]
+    },
+    {
+        "topic": "Retrieval and Evidence",
+        "question": "Why show evidence with an answer?",
+        "answer": "Showing retrieved source entries makes it easier to inspect what information supports an answer and to identify missing or irrelevant matches.",
+        "keywords": [
+            "retrieval",
+            "evidence",
+            "source",
+            "grounding",
+            "trust"
+        ]
+    },
+    {
+        "topic": "Tkinter",
+        "question": "What is Tkinter?",
+        "answer": "Tkinter is Python's standard interface to the Tk GUI toolkit and can be used to build desktop windows, forms, buttons, and text areas.",
+        "keywords": [
+            "tkinter",
+            "gui",
+            "ui",
+            "desktop",
+            "interface",
+            "python"
+        ]
+    },
+    {
+        "topic": "Testing",
+        "question": "Why test an agent?",
+        "answer": "Tests help verify tool routing, retrieval behavior, unknown-question handling, and consistency when the same input and knowledge base are used.",
+        "keywords": [
+            "testing",
+            "unit tests",
+            "consistency",
+            "validation",
+            "quality"
+        ]
+    },
+    {
+        "topic": "Machine Learning",
+        "question": "What is machine learning?",
+        "answer": "Machine learning is subset of AI",
+        "keywords": [
+            "AI",
+            "ML",
+            "Data",
+            "model"
+        ]
+    }
+]

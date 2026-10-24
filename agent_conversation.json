@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-10-24T19:42:07",
+    "question": "What is machine learning",
+    "mode": "Auto route",
+    "tool": "get_topic_details",
+    "answer": "Machine Learning: Machine learning is subset of AI",
+    "evidence": [
+      {
+        "topic": "Machine Learning",
+        "question": "What is machine learning?",
+        "answer": "Machine learning is subset of AI",
+        "keywords": [
+          "AI",
+          "ML",
+          "Data",
+          "model"
+        ]
+      }
+    ]
+  }
+]
